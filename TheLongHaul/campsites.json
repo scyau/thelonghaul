@@ -1,0 +1,536 @@
+[
+  {
+    "id": "1",
+    "name": "McDonald Creek provincial campground",
+    "latitude": 50.1321268,
+    "longitude": -117.810166
+  },
+  {
+    "id": "2",
+    "name": "Syringa Provincial Campground",
+    "latitude": 49.3500159,
+    "longitude": -117.8871833
+  },
+  {
+    "id": "3",
+    "name": "Kettle River Recreation Area",
+    "latitude": 49.1121023,
+    "longitude": -118.9818706
+  },
+  {
+    "id": "4",
+    "name": "Texas Creek Campground",
+    "latitude": 49.127867,
+    "longitude": -118.249278
+  },
+  {
+    "id": "5",
+    "name": "Lockhart Beach Provincial Park",
+    "latitude": 49.5093961,
+    "longitude": -116.7858344
+  },
+  {
+    "id": "6",
+    "name": "Okanagan Lake Provincial Park South",
+    "latitude": 49.6833763,
+    "longitude": -119.7237705
+  },
+  {
+    "id": "7",
+    "name": "Kootenay Lake Provincial Park - Davis Creek Campground",
+    "latitude": 50.1412557,
+    "longitude": -116.9504932
+  },
+  {
+    "id": "8",
+    "name": "Kootenay Lake Provincial Park - Lost Ledge Campground",
+    "latitude": 50.1009053,
+    "longitude": -116.9385849
+  },
+  {
+    "id": "9",
+    "name": "Rosebery Provincial Park",
+    "latitude": 50.0333184,
+    "longitude": -117.4047874
+  },
+  {
+    "id": "10",
+    "name": "Summit Lake Provincial Park",
+    "latitude": 50.1554044,
+    "longitude": -117.653693
+  },
+  {
+    "id": "11",
+    "name": "Okanagan Falls Provincial Park",
+    "latitude": 49.3408275,
+    "longitude": -119.580962
+  },
+  {
+    "id": "12",
+    "name": "Jimsmith Lake Provincial Park",
+    "latitude": 49.4842912,
+    "longitude": -115.8385385
+  },
+  {
+    "id": "13",
+    "name": "Wasa Lake Park Campground",
+    "latitude": 49.7812357,
+    "longitude": -115.7286054
+  },
+  {
+    "id": "14",
+    "name": "Kokanee Creek Provincial Park Campsite",
+    "latitude": 49.6053044,
+    "longitude": -117.1216533
+  },
+  {
+    "id": "15",
+    "name": "Blanket Creek Campground",
+    "latitude": 50.8322205,
+    "longitude": -118.0815482
+  },
+  {
+    "id": "16",
+    "name": "Mabel Lake Provincial Park",
+    "latitude": 50.4550285,
+    "longitude": -118.7334386
+  },
+  {
+    "id": "17",
+    "name": "Kekuli Bay Provincial Park Campground",
+    "latitude": 50.1830437,
+    "longitude": -119.3430485
+  },
+  {
+    "id": "18",
+    "name": "Ellison Provincial Park",
+    "latitude": 50.17768,
+    "longitude": -119.4322301
+  },
+  {
+    "id": "19",
+    "name": "sẁiẁs (Haynes Point) Provincial Park",
+    "latitude": 49.0146783,
+    "longitude": -119.458146
+  },
+  {
+    "id": "20",
+    "name": "Stemwinder Provincial Park",
+    "latitude": 49.3708053,
+    "longitude": -120.1364849
+  },
+  {
+    "id": "21",
+    "name": "Bromley Rock Provincial Park",
+    "latitude": 49.4173,
+    "longitude": -120.2583556
+  },
+  {
+    "id": "22",
+    "name": "Allison Lake Provincial Park-Campground",
+    "latitude": 49.6812124,
+    "longitude": -120.602804
+  },
+  {
+    "id": "23",
+    "name": "Okanagan Lake Provincial Park North Campground",
+    "latitude": 49.6911519,
+    "longitude": -119.7333646
+  },
+  {
+    "id": "24",
+    "name": "Bear Creek Provincial Park Campground",
+    "latitude": 49.9277784,
+    "longitude": -119.5096327
+  },
+  {
+    "id": "25",
+    "name": "Fintry Provincial Park",
+    "latitude": 50.1355909,
+    "longitude": -119.5028516
+  },
+  {
+    "id": "26",
+    "name": "Monck Provincial Park",
+    "latitude": 50.1764047,
+    "longitude": -120.5333337
+  },
+  {
+    "id": "27",
+    "name": "Herald Provincial Park",
+    "latitude": 50.7874523,
+    "longitude": -119.2084038
+  },
+  {
+    "id": "28",
+    "name": "Shuswap Lake Provincial Park",
+    "latitude": 50.9074549,
+    "longitude": -119.4402044
+  },
+  {
+    "id": "29",
+    "name": "Paul Lake Provincial Park",
+    "latitude": 50.741667,
+    "longitude": -120.120833
+  },
+  {
+    "id": "30",
+    "name": "Juniper Beach Provincial Park",
+    "latitude": 50.7841097,
+    "longitude": -121.0810604
+  },
+  {
+    "id": "31",
+    "name": "Lac Le Jeune Campground",
+    "latitude": 50.4867066,
+    "longitude": -120.4893092
+  },
+  {
+    "id": "32",
+    "name": "Kentucky-Alleyne Provincial Park",
+    "latitude": 49.9101291,
+    "longitude": -120.5642392
+  },
+  {
+    "id": "33",
+    "name": "Otter Lake Provincial Park",
+    "latitude": 49.587759,
+    "longitude": -120.7729733
+  },
+  {
+    "id": "34",
+    "name": "Hampton Campground - E.C. Manning Provincial Park",
+    "latitude": 49.0704685,
+    "longitude": -120.7201394
+  },
+  {
+    "id": "35",
+    "name": "Coldspring Campground",
+    "latitude": 49.0742304,
+    "longitude": -120.8062888
+  },
+  {
+    "id": "36",
+    "name": "Mule Deer Campground",
+    "latitude": 49.0901262,
+    "longitude": -120.6814858
+  },
+  {
+    "id": "37",
+    "name": "Ross Lake Campground",
+    "latitude": 49.0035526,
+    "longitude": -121.0637579
+  },
+  {
+    "id": "38",
+    "name": "Alice Lake Campgrounds",
+    "latitude": 49.7831973,
+    "longitude": -123.1209724
+  },
+  {
+    "id": "39",
+    "name": "Porteau Cove Campground",
+    "latitude": 49.5573055,
+    "longitude": -123.2368069
+  },
+  {
+    "id": "40",
+    "name": "Clear Creek Campground",
+    "latitude": 49.0476359,
+    "longitude": -121.975076
+  },
+  {
+    "id": "41",
+    "name": "Maple Bay Campground",
+    "latitude": 49.0316579,
+    "longitude": -122.009362
+  },
+  {
+    "id": "42",
+    "name": "Delta Grove Campground",
+    "latitude": 49.0466745,
+    "longitude": -121.9789904
+  },
+  {
+    "id": "43",
+    "name": "Rolley Lake Provincial Park Campground",
+    "latitude": 49.2449015,
+    "longitude": -122.3830517
+  },
+  {
+    "id": "44",
+    "name": "Gold Creek Campground",
+    "latitude": 49.3250314,
+    "longitude": -122.4574864
+  },
+  {
+    "id": "45",
+    "name": "Alouette Campground",
+    "latitude": 49.320787,
+    "longitude": -122.4635053
+  },
+  {
+    "id": "46",
+    "name": "North Beach Campground",
+    "latitude": 49.3316041,
+    "longitude": -122.4520898
+  },
+  {
+    "id": "47",
+    "name": "Nairn Falls Campground",
+    "latitude": 50.294821,
+    "longitude": -122.816167
+  },
+  {
+    "id": "48",
+    "name": "Porpoise Bay Provincial Park",
+    "latitude": 49.5045183,
+    "longitude": -123.7501025
+  },
+  {
+    "id": "49",
+    "name": "Rathtrevor Beach Campground",
+    "latitude": 49.31873,
+    "longitude": -124.269701
+  },
+  {
+    "id": "50",
+    "name": "Sproat Lake Provincial Park",
+    "latitude": 49.2948676,
+    "longitude": -124.9327264
+  },
+  {
+    "id": "51",
+    "name": "Little Qualicum Falls Campground",
+    "latitude": 49.310995,
+    "longitude": -124.5449788
+  },
+  {
+    "id": "52",
+    "name": "Buttle Lake Campground",
+    "latitude": 49.8330529,
+    "longitude": -125.6267706
+  },
+  {
+    "id": "53",
+    "name": "Ralph River Campground",
+    "latitude": 49.6305201,
+    "longitude": -125.5245632
+  },
+  {
+    "id": "54",
+    "name": "China Beach Campground",
+    "latitude": 48.4377121,
+    "longitude": -124.0929174
+  },
+  {
+    "id": "55",
+    "name": "French Beach Campground",
+    "latitude": 48.3932934,
+    "longitude": -123.9420102
+  },
+  {
+    "id": "56",
+    "name": "Ruckle Provincial Park",
+    "latitude": 48.774019,
+    "longitude": -123.372283
+  },
+  {
+    "id": "57",
+    "name": "Miracle Beach Provincial Park",
+    "latitude": 49.8488642,
+    "longitude": -125.0964951
+  },
+  {
+    "id": "58",
+    "name": "Englishman River Falls Provincial Park Campground",
+    "latitude": 49.2485125,
+    "longitude": -124.3552344
+  },
+  {
+    "id": "59",
+    "name": "Chilliwack Lake Campground",
+    "latitude": 49.0894382,
+    "longitude": -121.4538405
+  },
+  {
+    "id": "60",
+    "name": "Saltery Bay Campground",
+    "latitude": 49.7821907,
+    "longitude": -124.191758
+  },
+  {
+    "id": "61",
+    "name": "Goldstream Park Campground",
+    "latitude": 48.4620237,
+    "longitude": -123.5617616
+  },
+  {
+    "id": "62",
+    "name": "Stoltz Pool Campground and Group Site",
+    "latitude": 48.771882,
+    "longitude": -123.8951885
+  },
+  {
+    "id": "63",
+    "name": "Gordon Bay Camp Site",
+    "latitude": 48.8349023,
+    "longitude": -124.196729
+  },
+  {
+    "id": "64",
+    "name": "Stamp River Provincial Park",
+    "latitude": 49.3362361,
+    "longitude": -124.9227493
+  },
+  {
+    "id": "65",
+    "name": "Quinsam Campground",
+    "latitude": 50.0368276,
+    "longitude": -125.2956004
+  },
+  {
+    "id": "66",
+    "name": "Loveland Bay Provincial Park",
+    "latitude": 50.050546,
+    "longitude": -125.4482707
+  },
+  {
+    "id": "67",
+    "name": "Morton Lake Provincial Park",
+    "latitude": 50.1228389,
+    "longitude": -125.4802913
+  },
+  {
+    "id": "68",
+    "name": "Smelt Bay Provincial Campground",
+    "latitude": 50.0312416,
+    "longitude": -124.9930731
+  },
+  {
+    "id": "69",
+    "name": "Inland Lake Campground",
+    "latitude": 49.9177973,
+    "longitude": -124.4799011
+  },
+  {
+    "id": "70",
+    "name": "Birkenhead Lake Campground",
+    "latitude": 50.5611094,
+    "longitude": -122.6652493
+  },
+  {
+    "id": "71",
+    "name": "Robson River Campground",
+    "latitude": 53.0329485,
+    "longitude": -119.2478469
+  },
+  {
+    "id": "72",
+    "name": "Robson Meadows Campground",
+    "latitude": 53.0307089,
+    "longitude": -119.2368292
+  },
+  {
+    "id": "73",
+    "name": "Lucerne Campground",
+    "latitude": 52.8501241,
+    "longitude": -118.5748608
+  },
+  {
+    "id": "74",
+    "name": "North Thompson River Provincial Park",
+    "latitude": 51.6271153,
+    "longitude": -120.0862148
+  },
+  {
+    "id": "75",
+    "name": "Lac La Hache Provincial Park",
+    "latitude": 51.8589313,
+    "longitude": -121.6371864
+  },
+  {
+    "id": "76",
+    "name": "Lakeshore Campground",
+    "latitude": 51.312498,
+    "longitude": -121.8183518
+  },
+  {
+    "id": "77",
+    "name": "Ten Mile Lake Provincial Park",
+    "latitude": 53.073736,
+    "longitude": -122.4495705
+  },
+  {
+    "id": "78",
+    "name": "Purden Lake Provincial Park Campground",
+    "latitude": 53.9147961,
+    "longitude": -121.9571151
+  },
+  {
+    "id": "79",
+    "name": "Crooked River Provincial Park Campground",
+    "latitude": 54.4803757,
+    "longitude": -122.6783423
+  },
+  {
+    "id": "80",
+    "name": "Beaumont Campground",
+    "latitude": 54.0619484,
+    "longitude": -124.6176499
+  },
+  {
+    "id": "81",
+    "name": "Moberly Lake Provincial Campground",
+    "latitude": 55.8088263,
+    "longitude": -121.6934398
+  },
+  {
+    "id": "82",
+    "name": "Tyhee Lake Provincial Park",
+    "latitude": 54.7064556,
+    "longitude": -127.0372686
+  },
+  {
+    "id": "83",
+    "name": "Red Bluff Provincial Park",
+    "latitude": 54.8502652,
+    "longitude": -126.1808486
+  },
+  {
+    "id": "84",
+    "name": "Kleanza Creek Provincial Park",
+    "latitude": 54.5978194,
+    "longitude": -128.3822591
+  },
+  {
+    "id": "85",
+    "name": "Furlong Bay Campground",
+    "latitude": 54.3839126,
+    "longitude": -128.5304306
+  },
+  {
+    "id": "86",
+    "name": "Meziadin Lake Campground",
+    "latitude": 56.0874409,
+    "longitude": -129.3070211
+  },
+  {
+    "id": "87",
+    "name": "Strawberry Flats campground",
+    "latitude": 58.950278,
+    "longitude": -125.7725
+  },
+  {
+    "id": "88",
+    "name": "MacDonald Campground",
+    "latitude": 59.0199471,
+    "longitude": -125.7732464
+  },
+  {
+    "id": "89",
+    "name": "Liard River Hot Springs Provincial Park",
+    "latitude": 59.4254771,
+    "longitude": -126.1026402
+  }
+]

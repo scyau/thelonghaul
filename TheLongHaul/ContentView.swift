@@ -1,24 +1,24 @@
-//
-//  ContentView.swift
-//  TheLongHaul
-//
-//  Created by Steven Yau on 2026-02-20.
-//
-
 import SwiftUI
 
 struct ContentView: View {
-    var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundStyle(.tint)
-            Text("Hello, world!")
-        }
-        .padding()
-    }
-}
+    @EnvironmentObject var store: AppDataStore
 
-#Preview {
-    ContentView()
+    var body: some View {
+        TabView {
+            DashboardView()
+                .tabItem { Label("Dashboard", systemImage: "gauge.medium") }
+
+            TripLogView()
+                .tabItem { Label("Trips", systemImage: "road.lanes") }
+
+            TripPlannerView()
+                .tabItem { Label("Planner", systemImage: "tent") }
+
+            MaintenanceView()
+                .tabItem { Label("Maintenance", systemImage: "wrench.and.screwdriver") }
+
+            MoreView()
+                .tabItem { Label("More", systemImage: "ellipsis.circle") }
+        }
+    }
 }
